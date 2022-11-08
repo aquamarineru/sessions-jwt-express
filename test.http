@@ -1,0 +1,4 @@
+GET http://localhost:8080/route1
+
+###
+GET http://localhost:8080/route2
